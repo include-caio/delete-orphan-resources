@@ -2,7 +2,7 @@
 
 O objetivo desse script é fornecer uma maneira fácil e automatizada de remover recursos órfãos do Azure
 
-<img src="https://caio.work/orphan/Vid001.gif" width="650">
+<video src="https://i.imgur.com/BCDlSPx.mp4" width="650"></video>
 
 Atualmente os recursos suportados são:
 - App Service Plans
